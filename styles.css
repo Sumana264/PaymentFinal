@@ -1,0 +1,104 @@
+* {
+    box-sizing: border-box; 
+    }
+
+.button {
+    background-color: white; 
+    color: black; 
+    border: 5px solid #008CBA;
+    padding: 10px 20px;
+    text-align: center;
+    font-family: 'Abril Fatface';
+    text-decoration: none;
+    display: inline-block;
+    font-size: 100%;
+    font-weight: 1000;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    box-shadow: 0 7px 9px 0 rgba(63, 62, 62, 0.2), 0 6px 20px 0 rgba(61, 60, 60, 0.19);
+    border-radius: 15px;
+    width:250px;
+  }
+  
+  .button:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+
+#amount{
+    margin-left: 49px;
+    box-shadow: 0.5px 2px 2px 0.5px rgba(46, 46, 46, 0.19);
+    font-size: medium;
+    text-align: center;
+}
+
+#name{
+    margin-left: 10px;
+    box-shadow: 0.5px 2px 2px 0.5px rgba(46, 46, 46, 0.19);
+    font-size: medium;
+    text-align: center;
+}
+
+.featured-section h1 {
+    font-family: 'Grenze Gotisch';
+    color: #ffffff;
+    font-weight: 700;
+    letter-spacing: 4px;
+    opacity: 0.7;
+    font-size: 50px;
+    margin-top: 20px;
+    text-shadow: 4px 4px 2px #504f4f;
+    font-style: italic;
+    text-align: center;
+}
+
+.featured-section {
+    background: linear-gradient(0deg, #0072c9, #0089b7) fixed;
+    background: -webkit-linear-gradient(0deg, #0072c9, #0089b7) fixed;
+    text-align: center;
+    padding-top: 70px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 0px;
+    position: relative;
+}
+
+.featured-section .container-fluid {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+.body-section{
+    top: 250px;
+    /* left: 100px; */
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    height:100%;
+    background-image: url('i2.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+}
+
+.body-section .container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 140px;
+    
+}
+
+.details{
+    font-size: 30px;
+    text-align: center;
+}
+
+.down{
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+
+

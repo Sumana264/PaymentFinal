@@ -1,0 +1,51 @@
+.thank_you{
+    text-align: center;
+    background:  #fc7f7f;
+    height:80%;
+    margin:20px;
+    vertical-align: middle;
+    border-bottom-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.thank_you .container{
+    text-align: center;
+    padding:10px;
+}
+
+.image{
+    width:100%;
+    height:auto;
+    background-size: contain;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+.pay-thanks{
+    text-align: center;
+    background:  #68B0AB;
+    height:50%;
+    margin:20px;
+    vertical-align: middle;
+    border-bottom-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.pay-thanks .container{
+    text-align: center;
+    padding:10px;
+    height:70%;
+}
+
+.image1{
+    width:100%;
+    height:40%;
+    background-size: contain;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
